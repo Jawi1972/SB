@@ -1,9 +1,10 @@
-brandschutz-ingenieur/
-│
+Brandschutz-Ingenieur/
 ├─ index.html
+├─ impressum.html      ← HINZUFÜGEN
+├─ datenschutz.html    ← HINZUFÜGEN
 ├─ css/
-│   └─ styles.css
+│  └─ styles.css
 ├─ js/
-│   └─ main.js
+│  └─ main.js
 └─ assets/
-    └─ logo.svg (optional)
+   └─ logo.svg (optional)
